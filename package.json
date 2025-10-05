@@ -1,0 +1,19 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "[Submit Solution URL](https://roadmap.sh/projects/github-user-activity)",
+  "main": "index.js",
+  "module": "nodenext",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc --module ESNext --outDir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
